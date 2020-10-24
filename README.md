@@ -2,11 +2,11 @@
 
 I describe myself as a semi-stack developer with a design background. When I got my start in the software space I was designing and building customer MySpace pages. This was the impetus for my interest in designing web-based experiences which I did for a number of years. My jump over the fence into the development side of the house was prompted by the need to understand why what was built didn't match the experience I designed. I call myself a semi-stack developer becuase I'm always learning a bit more about the entire development ecosystem.
 
-Since then, advances in web technologies have fueled my desire to learn a little bit about everything I can get my hands on. Those of us who could design and develop websites and software were dubbed 'unicorns', but I preferred to consider myself a UX Designer for a number of years.
+Since then, advances in web technologies have fueled my desire to learn a little bit about everything I can get my hands on. I'm comfortable working on concepts with design teams, pair programming with engineers, interviewing users, optimizing growth funnels, and speaking to a product's vision.
 
-Here's a little bit of my history:
+Here's a little bit of my background:
 
-* **Senior Product Manager** - *[Gatsby](https://www.gatsbyjs.com) (Jan 2020 - present)*
+* **Senior Product Manager** - *[Gatsby](https://www.gatsbyjs.com) (Jan 2020 - Oct 2020)*
 
 * **Product Manager** - *[Flywheel](https://getflywheel.com) (May 2018 - Nov 2019)*
 
