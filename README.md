@@ -6,7 +6,7 @@ Since then, advances in web technologies have fueled my desire to learn a little
 
 Here's a little bit of my background:
 
-* **Senior Product Manager** - *[Conductor](https://www.conductor.com) (Nov 2020 - Present)
+* **Senior Product Manager** - *[Conductor](https://www.conductor.com) (Nov 2020 - Present)*
 
 * **Senior Product Manager** - *[Gatsby](https://www.gatsbyjs.com) (Jan 2020 - Oct 2020)*
 
